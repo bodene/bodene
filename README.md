@@ -36,10 +36,12 @@ This GitHub showcases my university projects, personal experiments, and freelanc
 
 ## 📌 Featured Projects
 
-### [TeachTeam Lecturer Portal](https://github.com/YOUR-REPO-LINK)
+### [TeachTeam Lecturer Portal](https://github.com/TeachTeam-Milestone1)
 > Visual insights dashboard for managing and ranking student applications.  
 > **Tech:** React, Node.js, PostgreSQL, Recharts, Chakra UI.  
-![TeachTeam Screenshot](link-to-screenshot)
+<img src="TeachTeam-Lecturer.png" alt="TeachTeam Lecturer Screenshot" width="600"/>
+<img src="TeachTeamLecturerInsights.png" alt="TeachTeam Lecturer Insights Screenshot" width="600"/>
+<img src="TeachTeam-Student.png" alt="TeachTeam Students Screenshot" width="600"/>
 
 ---
 
