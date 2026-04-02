@@ -82,6 +82,15 @@ Focus areas:
 
 ---
 
+### [TeachTeam Lecturer Portal](https://github.com/TeachTeam-Milestone1)
+> Visual insights dashboard for managing and ranking student applications.  
+> **Tech:** React, Node.js, PostgreSQL, Recharts, Chakra UI.  
+<img src="TeachTeam-Lecturer.png" alt="TeachTeam Lecturer Screenshot" width="600"/>
+<img src="TeachTeamLecturerInsights.png" alt="TeachTeam Lecturer Insights Screenshot" width="600"/>
+<img src="TeachTeam-Student.png" alt="TeachTeam Students Screenshot" width="600"/>
+
+---
+
 ## Career Focus
 
 I’m currently seeking a **graduate role in networking, infrastructure, cybersecurity, or cloud systems**, with a strong interest in positions that involve real-world system environments and operational problem solving.
@@ -111,49 +120,5 @@ I’m currently seeking a **graduate role in networking, infrastructure, cyberse
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-### [TeachTeam Lecturer Portal](https://github.com/TeachTeam-Milestone1)
-> Visual insights dashboard for managing and ranking student applications.  
-> **Tech:** React, Node.js, PostgreSQL, Recharts, Chakra UI.  
-<img src="TeachTeam-Lecturer.png" alt="TeachTeam Lecturer Screenshot" width="600"/>
-<img src="TeachTeamLecturerInsights.png" alt="TeachTeam Lecturer Insights Screenshot" width="600"/>
-<img src="TeachTeam-Student.png" alt="TeachTeam Students Screenshot" width="600"/>
-
----
-
-### [EyeClear E-Commerce Website](https://github.com/YOUR-REPO-LINK)
-> UML diagrams and prototype for an eyewear e-commerce platform.  
-> **Tech:** Java, JSP/Servlets, MySQL, UML.  
-![EyeClear Screenshot](link-to-screenshot)
-
----
-
-### [Cloud Security Labs](https://github.com/YOUR-REPO-LINK)
-> AWS VPC architecture, S3 bucket policies, Elastic Load Balancing, Paillier Homomorphic Encryption demos.  
-> **Tech:** AWS, Python, JavaScript, Encryption, Lambda.  
-![Cloud Security Labs Screenshot](link-to-screenshot)
-
----
-
-### [Blockchain Fundamentals Assignments](https://github.com/YOUR-REPO-LINK)
-> NFT migration plan and Solidity smart contracts from INTE2627.  
-> **Tech:** Solidity, Hardhat, JavaScript, HTML/CSS.
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bodenedownie/)
-
----
-
-## 📊 GitHub Stats
-
-![Bodene's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
 
 ---
