@@ -1,25 +1,104 @@
-# Hi, I'm Bodene 
-
 🎓 **Bachelor of Cyber Security student at RMIT University**  
 💻 **Full-stack developer & security enthusiast**  
 📍 Melbourne, Australia
 
-Cyber Security student at RMIT building full-stack applications and cloud/security projects.
-Interested in graduate roles across cyber security, cloud infrastructure, and software engineering.
-This portfolio highlights hands-on work in TypeScript, Java, AWS security concepts, cryptography, and deployment-focused development.
+## Hi, I'm Bodene
+
+Cyber Security student at RMIT (graduating 2026) with a strong focus on **networking, infrastructure, and system deployment**.
+
+I build and manage real-world applications in live environments, with hands-on experience in:
+- Linux server administration
+- VPS deployment and configuration
+- Networking (ports, DNS, routing, connectivity)
+- Troubleshooting production issues
+- Deployment workflows and system reliability
 
 ---
 
-## 🌟 About Me
+## Infrastructure & Deployment Experience
 
-- 🎓 Studying my **Bachelor of Cyber Security** at **RMIT University**, focusing on network security, cloud architecture, and cryptography.
-- 🌱 I’m learning more about **blockchain technology**, **penetration testing**, and **DevSecOps**.
-- 💡 I enjoy combining security best practices with UX-friendly design to create practical, robust solutions.
-- ⚡ Fun fact: I’ve built everything from AWS architectures to dog-training apps.
+I currently run a production application hosted on a VPS, where I:
+
+- Deploy and manage a full-stack application in a Linux environment
+- Configure networking (ports, localhost routing, external access)
+- Work with SSH and remote server access
+- Diagnose and resolve real-world issues including:
+  - connection timeouts
+  - SSH access failures
+  - services not accessible externally
+  - application downtime after restart
+- Investigate logs and system behaviour to identify root causes
+- Manage multiple services on a single host
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Key Technical Skills
+
+**Infrastructure & Systems**
+- Linux (Ubuntu server environments)
+- VPS hosting (Hostinger)
+- Networking fundamentals (TCP/IP, DNS, ports)
+- Nginx (reverse proxy concepts)
+- System monitoring and log analysis
+
+**Development**
+- JavaScript / TypeScript (Next.js)
+- Python / Java
+- Git & version control
+
+**Cloud & DevOps**
+- CI/CD concepts (Git-based workflows)
+- AWS fundamentals (EC2, architecture concepts)
+
+**Cyber Security**
+- Nmap, Nessus, Wireshark
+- OWASP Top 10
+- Vulnerability scanning basics
+
+---
+
+## Featured Projects
+
+### VPS Infrastructure & Deployment (Private Project)
+Production deployment of a full-stack application hosted on a VPS.
+
+Focus areas:
+- Server setup and configuration
+- Networking and connectivity
+- Troubleshooting real-world failures
+- System reliability and uptime
+
+ *Repository is private, but I’m happy to walk through architecture and deployment setup.*
+
+---
+
+### Cloud Security & Cryptography Projects
+- Kerberos authentication (simplified implementation)
+- Diffie-Hellman key exchange
+- Site-to-site VPN concepts
+- AES-CBC encryption
+- Shamir Secret Sharing
+- Paillier Homomorphic Encryption
+
+---
+
+## Career Focus
+
+I’m currently seeking a **graduate role in networking, infrastructure, or cloud systems**, where I can:
+
+- Work on real-world systems and environments
+- Continue developing deep technical capability
+- Contribute to reliable, scalable, and secure infrastructure
+
+---
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/bodenedownie/
+
+---
+
+## Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
