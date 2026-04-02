@@ -4,8 +4,9 @@
 💻 **Full-stack developer & security enthusiast**  
 📍 Melbourne, Australia
 
-I’m passionate about designing secure, scalable applications, diving deep into cloud security, blockchain, and ethical hacking.  
-This GitHub showcases my university projects, personal experiments, and freelance work in tech and cybersecurity.
+Cyber Security student at RMIT building full-stack applications and cloud/security projects.
+Interested in graduate roles across cyber security, cloud infrastructure, and software engineering.
+This portfolio highlights hands-on work in TypeScript, Java, AWS security concepts, cryptography, and deployment-focused development.
 
 ---
 
