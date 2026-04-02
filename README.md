@@ -84,7 +84,7 @@ Focus areas:
 
 ## Career Focus
 
-I’m currently seeking a **graduate role in networking, infrastructure, or cloud systems**, where I can:
+I’m currently seeking a **graduate role in networking, infrastructure, cybersecurity, or cloud systems**, with a strong interest in positions that involve real-world system environments and operational problem solving.
 
 - Work on real-world systems and environments
 - Continue developing deep technical capability
